@@ -80,6 +80,12 @@ See each folder's README for configuration, scripts and the API reference.
 
 Planned, not built: user accounts and authentication, payment history per room, tenant details, rent-due reminders, and a database-backed store.
 
+Application preview 
+<img width="1233" height="560" alt="image" src="https://github.com/user-attachments/assets/7fe02fd8-f815-46dd-a036-71d56cb6f1b3" />
+<img width="1294" height="620" alt="image" src="https://github.com/user-attachments/assets/86d3cdab-1bb0-415c-81d2-8cdfd239bca3" />
+<img width="1084" height="282" alt="image" src="https://github.com/user-attachments/assets/c64ba61c-b184-46f3-ba6a-ad736a9db722" />
+
+
 ## License
 
 MIT
